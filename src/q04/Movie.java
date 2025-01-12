@@ -1,6 +1,7 @@
 package q04;
 
 public class Movie {
+    
     private String title;
     private int duration;
 
