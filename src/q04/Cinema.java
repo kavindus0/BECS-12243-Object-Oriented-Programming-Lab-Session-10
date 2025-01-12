@@ -1,6 +1,7 @@
 package q04;
 
 public class Cinema {
+    
     private Ticket[] tickets;
     private int ticketCount;
 
