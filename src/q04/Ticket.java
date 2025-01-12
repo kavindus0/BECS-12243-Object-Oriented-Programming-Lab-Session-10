@@ -1,6 +1,7 @@
 package q04;
 
 public class Ticket {
+    
     private Movie movie;
     private String seatNumber;
     private double price;
